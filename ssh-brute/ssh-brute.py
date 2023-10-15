@@ -1,6 +1,6 @@
 from pwn import *
 import paramiko
-#
+# it runs on repli but ONLY FAILS
 host = "127.0.0.1"
 username = "notroot"
 attempts = 0
